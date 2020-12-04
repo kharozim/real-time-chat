@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238303219957",
+    "project_id": "my-app-8959b",
+    "storage_bucket": "my-app-8959b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238303219957:android:7307457776fed7242c75bc",
+        "android_client_info": {
+          "package_name": "id.kharozim.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238303219957-l7uqskdhg870sl3vv5amrdltm0c2r3n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.kharozim.real_time_chat",
+            "certificate_hash": "63adef86dc217d1400507ae6b0d0e6337c9174c5"
+          }
+        },
+        {
+          "client_id": "238303219957-14fik3m8tvlr9q222dsvonto8i6jsop3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAH4rhXx4I19vPX2xsk_bOWryyZsL3jNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238303219957-14fik3m8tvlr9q222dsvonto8i6jsop3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
